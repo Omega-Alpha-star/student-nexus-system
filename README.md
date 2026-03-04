@@ -127,6 +127,7 @@ Tshwane University of Technology
 
 
 System Architecture Diagram
+
               +-----------------------+
               |   StudentManagement   |
               |        System         |
