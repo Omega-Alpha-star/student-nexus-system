@@ -30,7 +30,7 @@ This project demonstrates **clean backend architecture**, **database design**, a
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 The project follows a **layered backend architecture**:
 
@@ -56,7 +56,7 @@ student.nexus.util      → Utility classes
 
 ---
 
-# 🗄 Database Design
+# Database Design
 
 Tables used:
 
@@ -95,7 +95,7 @@ PENDING → ACTIVE → DEACTIVATED / REJECTED
 
 ---
 
-# 📷 Example Console Output
+# Example Console Output
 
 ```
 === PUBLIC MENU ===
@@ -108,7 +108,7 @@ PENDING → ACTIVE → DEACTIVATED / REJECTED
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 * Java
 * Maven
